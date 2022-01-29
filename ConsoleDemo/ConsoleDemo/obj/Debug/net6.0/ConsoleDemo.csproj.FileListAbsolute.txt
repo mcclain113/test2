@@ -1,0 +1,16 @@
+C:\Users\barry\source\repos2\ConsoleDemo\ConsoleDemo\bin\Debug\net6.0\ConsoleDemo.exe
+C:\Users\barry\source\repos2\ConsoleDemo\ConsoleDemo\bin\Debug\net6.0\ConsoleDemo.deps.json
+C:\Users\barry\source\repos2\ConsoleDemo\ConsoleDemo\bin\Debug\net6.0\ConsoleDemo.runtimeconfig.json
+C:\Users\barry\source\repos2\ConsoleDemo\ConsoleDemo\bin\Debug\net6.0\ConsoleDemo.dll
+C:\Users\barry\source\repos2\ConsoleDemo\ConsoleDemo\bin\Debug\net6.0\ref\ConsoleDemo.dll
+C:\Users\barry\source\repos2\ConsoleDemo\ConsoleDemo\bin\Debug\net6.0\ConsoleDemo.pdb
+C:\Users\barry\source\repos2\ConsoleDemo\ConsoleDemo\obj\Debug\net6.0\ConsoleDemo.csproj.AssemblyReference.cache
+C:\Users\barry\source\repos2\ConsoleDemo\ConsoleDemo\obj\Debug\net6.0\ConsoleDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barry\source\repos2\ConsoleDemo\ConsoleDemo\obj\Debug\net6.0\ConsoleDemo.AssemblyInfoInputs.cache
+C:\Users\barry\source\repos2\ConsoleDemo\ConsoleDemo\obj\Debug\net6.0\ConsoleDemo.AssemblyInfo.cs
+C:\Users\barry\source\repos2\ConsoleDemo\ConsoleDemo\obj\Debug\net6.0\ConsoleDemo.csproj.CoreCompileInputs.cache
+C:\Users\barry\source\repos2\ConsoleDemo\ConsoleDemo\obj\Debug\net6.0\ConsoleDemo.dll
+C:\Users\barry\source\repos2\ConsoleDemo\ConsoleDemo\obj\Debug\net6.0\ref\ConsoleDemo.dll
+C:\Users\barry\source\repos2\ConsoleDemo\ConsoleDemo\obj\Debug\net6.0\ConsoleDemo.pdb
+C:\Users\barry\source\repos2\ConsoleDemo\ConsoleDemo\obj\Debug\net6.0\ConsoleDemo.genruntimeconfig.cache
+C:\Users\barry\source\repos2\ConsoleDemo\ConsoleDemo\bin\Debug\net6.0\Files\grades.txt
