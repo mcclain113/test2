@@ -16,7 +16,11 @@ namespace ConsoleDemo
                 string line = sr.ReadLine();
                 line.Split(',');
 
+
                 while (!sr.EndOfStream) //test
+
+                while (!sr.EndOfStream)
+
                 {
                     line = sr.ReadLine();
                     var column = line.Split(',');
@@ -32,6 +36,11 @@ namespace ConsoleDemo
 
                 sw.Close();
             }
+
+            //not a big change
+            //not a big change 2
+
+
 
             
         }
